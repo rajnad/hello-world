@@ -1,2 +1,1 @@
-# hello-world
-Understanding github
+Undersatnding Github - features and functionality
